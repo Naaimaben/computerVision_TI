@@ -4,3 +4,5 @@ Ce projet a été réalisé dans le cadre du module Vision par Ordinateur dans l
 
 Le projet consiste à la suivie d'une plante et son évolution par le temps afin d'extraire les caractériqtiques de la plante
 telles que la ségmentation des objets, la hauteur, la distance euclidienne...
+
+Nous avons utilisé l'environement de travail Google Colaboratory, le langage Python et les packages OpenCv et PlantCV. 
